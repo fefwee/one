@@ -1,0 +1,13 @@
+<div class="modal_overlay close">
+	    
+	</div>
+
+	<div class="modal close">
+	    <div class="modal_box">
+	   <h1>Регистрация</h1>
+	   <input type="text" placeholder="Имя">
+	   <input type="text" placeholder="Фамилия">
+	  <div class="modal_btn">Отправить</div>
+	  <span class="krest">✘</span>
+	</div>
+    </div>
